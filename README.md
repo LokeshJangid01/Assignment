@@ -1,8 +1,6 @@
 # Assignment
 To Run application Download project or git clone.
-Install virtualenv module using --pip install virtualenv.
 
-activate virtual env using command --**.env\Scripts\activate.**
 
 install dependency using **pip install -r requirements.txt**
 
